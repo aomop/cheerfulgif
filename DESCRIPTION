@@ -12,3 +12,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Imports:
     shiny
+URL: https://github.com/aomop/cheerfulgif
+BugReports: https://github.com/aomop/cheerfulgif/issues
