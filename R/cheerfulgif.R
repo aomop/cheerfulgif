@@ -1,5 +1,7 @@
 #' Cheerful GIF Button UI
 #'
+#' @importFrom shiny moduleServer reactiveVal observeEvent showModal modalDialog modalButton NS tags actionButton
+#'
 #' @param id A character string used as the Shiny module namespace ID.
 #' @param color Background color of the button. Default is "orange".
 #' @param textcolor Text color of the button. If NULL, automatically computed for best contrast.

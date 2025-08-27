@@ -2,9 +2,13 @@ Package: cheerfulgif
 Title: Cheerful GIF Popup Module for Shiny Apps
 Version: 0.1.0
 Authors@R: 
-  person("Sam", "Swanson", email = "samswanson141@gmail.com", role = c("aut", "cre"))
-Description: Provides a simple, reusable Shiny module to bring cheer through randomly selected GIF popups paired with motivational messages. Easy to integrate into any Shiny app with minimal setup.
-License: MIT
+    person("Sam", "Swanson", email = "samswanson141@gmail.com", role = c("aut", "cre"))
+Description: Provides a simple, reusable Shiny module to bring cheer through randomly 
+    selected GIF popups paired with motivational messages. Easy to integrate into 
+    any Shiny app with minimal setup.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Imports:
+    shiny

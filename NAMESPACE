@@ -2,3 +2,12 @@
 
 export(gif_server)
 export(gif_ui)
+importFrom(shiny,NS)
+importFrom(shiny,actionButton)
+importFrom(shiny,modalButton)
+importFrom(shiny,modalDialog)
+importFrom(shiny,moduleServer)
+importFrom(shiny,observeEvent)
+importFrom(shiny,reactiveVal)
+importFrom(shiny,showModal)
+importFrom(shiny,tags)
